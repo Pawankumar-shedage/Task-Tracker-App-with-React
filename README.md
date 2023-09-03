@@ -1,6 +1,6 @@
 📋 React Task Tracker App
 
-![App Screenshot](![task_tracker](https://github.com/Pawankumar-shedage/Task-Tracker-App-with-React/assets/69629877/64d6913b-6cb6-4376-830a-fb14338e9894)
+![task_tracker](https://github.com/Pawankumar-shedage/Task-Tracker-App-with-React/assets/69629877/64d6913b-6cb6-4376-830a-fb14338e9894)
 )
 
 A simple and intuitive task tracker application built with React. Easily manage your tasks, add new ones, mark them as completed, and remove them when done. This beginner-friendly project serves as a great introduction to React and web development.
